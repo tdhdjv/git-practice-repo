@@ -1,3 +1,5 @@
 def helpme():
-    print('Help!')
-    
+    print('Help Me!')
+
+def no():
+    print('No')
